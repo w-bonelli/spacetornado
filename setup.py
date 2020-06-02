@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name='spacetornado',
       version='0.1',
       description='A minimal Tornado API for Spacy text analytics.',
       author='Wes Bonelli',
-      url='https://w-bonelli.github.io',
+      url='https://github.com/w-bonelli/spacetornado',
       packages=['spacetornado'],
       entry_points={
         'console_scripts':[

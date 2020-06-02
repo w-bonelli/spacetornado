@@ -11,6 +11,8 @@ The following are required to run `spacetornado` in a Unix environment:
 
 ## Installation
 
+The [package is on PyPI](https://pypi.org/manage/project/spacetornado/releases/) and can be installed with:
+
 `pip install spacetornado`
 
 ## Usage
