@@ -21,7 +21,7 @@ First download a Spacy language model.
 python -m spacy download en_core_web_sm
 ```
 
-Modify `spacetornado/host.py` to configure the server:
+Modify `spacetornado/server.py` to configure the server:
 
 ```python
 # Production-ready configuration solution :)
